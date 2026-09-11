@@ -8,7 +8,8 @@ This repository contains my hands-on cybersecurity reports and walkthroughs for 
 ### Project Setup
 * **Target Machine:** Shenron-1 (A vulnerable Linux VM designed for practice)
 * **Target IP:** `192.168.56.105`
-* **My Setup:** Kali Linux 
+* **My Setup:** Kali Linux
+* **Full Technical Report:** [Download PDF Report](./SHENRON1%20Network%20Pentration%20Testing%20Report\(1\).pdf)
 * **Core Tools Used:** Nmap, Dirb, Python, and native Linux command-line utilities.
 
 ---
