@@ -11,7 +11,7 @@
 ### How I Compromised the System (Step-by-Step)
 
 1. **Finding the Target (Scanning)**
-   I started with an Nmap network scan and found two open doors: Port 22 (SSH) and Port 80 (HTTP web server). Next, I used a tool called dirb to look for hidden folders on the website. It found three interesting paths: 
+   I started with an Nmap network scan and found two open doors: Port 22 (SSH) and Port 80 (HTTP web server). Next, I used a tool called dirb to look for hidden folders on the website. It found three interesting paths:
    * `/joomla`
    * `/test`
    * `/joomla/administrator`
